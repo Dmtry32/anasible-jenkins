@@ -15,7 +15,5 @@
       copy:
         src: index.html
         dest: /var/www/html/
-...
-
 
 
